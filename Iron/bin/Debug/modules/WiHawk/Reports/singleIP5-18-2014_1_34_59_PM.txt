@@ -1,0 +1,12 @@
+
+***********************************************************************************************
+    	    Auditing 122.163.215.163 to find if Router is Vulnerable to rom-o
+***********************************************************************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Router is Vulnerable to ROM-0 with ip: 122.163.215.163
+	rom-0 file is saved to IronWASP\modules\WiHawk\ROM-0 path
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+######################################################
+    	    Checking 122.163.215.163 for Authentication ByPass Vulnerability
+######################################################

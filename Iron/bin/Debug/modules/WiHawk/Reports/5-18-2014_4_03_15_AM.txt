@@ -1,0 +1,62 @@
+
+Making SHODAN API call to get target details....
+Extracting target details from the response
+SHODAN returned 2208 taregts matching your query.
+***********************************************************************************************
+    	    Auditing 122.165.7.176 to find if Router is Vulnerable to rom-o
+***********************************************************************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Router is not Vulnerable to ROM-0 with ip: 122.165.7.176
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+######################################################
+    	    Checking 122.165.7.176 for Backdoor 32764 Vulnerability
+######################################################
+Exception :not all arguments converted during string formatting
+    122.178.66.128 is not reachable
+***********************************************************************************************
+    	    Auditing 122.164.164.184 to find if Router is Vulnerable to rom-o
+***********************************************************************************************
+Exception :'Response' object has no attribute 'Save'
+    122.164.150.134 is not reachable
+    117.193.173.67 is not reachable
+    117.202.144.62 is not reachable
+    122.174.30.219 is not reachable
+    122.164.250.209 is not reachable
+    122.174.118.125 is not reachable
+    122.164.186.109 is not reachable
+    59.92.92.255 is not reachable
+    182.65.173.82 is not reachable
+    122.174.48.249 is not reachable
+    122.164.191.239 is not reachable
+***********************************************************************************************
+    	    Auditing 119.226.69.254 to find if Router is Vulnerable to rom-o
+***********************************************************************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Router is not Vulnerable to ROM-0 with ip: 119.226.69.254
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+######################################################
+    	    Checking 119.226.69.254 for Backdoor 32764 Vulnerability
+######################################################
+Exception :not all arguments converted during string formatting
+    122.174.28.39 is not reachable
+    117.193.216.155 is not reachable
+    117.202.176.111 is not reachable
+***********************************************************************************************
+    	    Auditing 122.164.65.102 to find if Router is Vulnerable to rom-o
+***********************************************************************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Router is not Vulnerable to ROM-0 with ip: 122.164.65.102
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+######################################################
+    	    Checking 122.164.65.102 for Backdoor 32764 Vulnerability
+######################################################
+Exception :not all arguments converted during string formatting
+    118.95.106.41 is not reachable
+***********************************************************************************************
+    	    Auditing 117.193.108.79 to find if Router is Vulnerable to rom-o
+***********************************************************************************************
+Exception :'Response' object has no attribute 'Save'
+    122.164.147.88 is not reachable

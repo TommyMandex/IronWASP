@@ -1,0 +1,9 @@
+
+    192.168.1.1 is not reachable
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$ No Devices with default login credentials $$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+$$$$$$$$$$$$ No Devices with HTTP basic authentication $$$$$$$$$$$
+
+$$$$$$$$$$$$ No Devices with bypass authenication vulnerbility $$$$$$$$$$$ 

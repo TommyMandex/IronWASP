@@ -1,0 +1,41 @@
+
+***********************************************************************************************
+    	    Auditing 192.168.1.1 to find if Router is Vulnerable to rom-o
+***********************************************************************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Router is not Vulnerable to ROM-0 with ip: 192.168.1.1
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+######################################################
+    	    Checking 192.168.1.1 for Authentication ByPass Vulnerability
+######################################################
+No authentication bypas vulnerability could be discovered on this device.
+
+***********************************************************************************************
+    	    Auditing 192.168.1.1 for weak Username & Password based Authentication
+***********************************************************************************************
+	Username is :user
+	Password is :user
+    192.168.1.2 is not reachable
+    192.168.1.3 is not reachable
+    192.168.1.4 is not reachable
+    192.168.1.5 is not reachable
+    192.168.1.6 is not reachable
+    192.168.1.7 is not reachable
+    192.168.1.8 is not reachable
+    192.168.1.9 is not reachable
+    192.168.1.10 is not reachable
+    192.168.1.11 is not reachable
+    192.168.1.12 is not reachable
+    192.168.1.13 is not reachable
+    192.168.1.14 is not reachable
+    192.168.1.15 is not reachable
+$$$$$$$$$$$$ Devices with default login credentials $$$$$$$$$$$$ 
+	192.168.1.1 - User Name =user    Password =user
+	192.168.1.1 - User Name =user    Password =user
+	192.168.1.1 - User Name =user    Password =user
+	192.168.1.1 - User Name =user    Password =user
+
+$$$$$$$$$$$$ No Devices with HTTP basic authentication $$$$$$$$$$$
+
+$$$$$$$$$$$$ No Devices with bypass authenication vulnerbility $$$$$$$$$$$ 

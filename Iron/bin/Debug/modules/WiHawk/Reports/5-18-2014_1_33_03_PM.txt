@@ -1,0 +1,27 @@
+
+***********************************************************************************************
+    	    Auditing 122.163.215.163 to find if Router is Vulnerable to rom-o
+***********************************************************************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Router is Vulnerable to ROM-0 with ip: 122.163.215.163
+	rom-0 file is saved to IronWASP\modules\WiHawk\ROM-0 path
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+######################################################
+    	    Checking 122.163.215.163 for Authentication ByPass Vulnerability
+######################################################
+No authentication bypas vulnerability could be discovered on this device.
+
+***********************************************************************************************
+    	    Auditing 122.163.215.163 for weak Username & Password based Authentication
+***********************************************************************************************
+
+The IP 122.163.215.163 is not set with default username-password
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$ No Devices with default login credentials $$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+$$$$$$$$$$$$$ Devices with HTTP basic authentication $$$$$$$$$$$$$$ 
+	122.163.215.163
+
+$$$$$$$$$$$$ No Devices with bypass authenication vulnerbility $$$$$$$$$$$ 

@@ -1,0 +1,18 @@
+
+    192.168.1.1 is not reachable
+    192.168.1.2 is not reachable
+    192.168.1.3 is not reachable
+    192.168.1.4 is not reachable
+    192.168.1.5 is not reachable
+    192.168.1.6 is not reachable
+    192.168.1.7 is not reachable
+    192.168.1.8 is not reachable
+    192.168.1.9 is not reachable
+    192.168.1.10 is not reachable
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$ No Devices with default login credentials $$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+$$$$$$$$$$$$ No Devices with HTTP basic authentication $$$$$$$$$$$
+
+$$$$$$$$$$$$ No Devices with bypass authenication vulnerbility $$$$$$$$$$$ 

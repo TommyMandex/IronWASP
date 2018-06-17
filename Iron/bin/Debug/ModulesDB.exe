@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modules>
+  <category>
+    <name>Analysis</name>
+    <module>
+      <name>HAWAS</name>
+      <version>0.2</version>
+      <display_name>HAWAS - Hybrid Analyzer for Web Application Security</display_name>
+      <author>Lavakumar Kuppan @lavakumark</author>
+      <project_home>https://github.com/lavakumar/hawas</project_home>
+      <works_on_session>no</works_on_session>
+      <works_on_url>no</works_on_url>
+      <works_on_finding>no</works_on_finding>
+      <description>A tool for analyzing the HTTP Proxy logs inside IronWASP and identifying interesting patterns and information. HAWAS identifies and decodeds encoded parameter values. Identifies and attempts to crack hashed parameter values. Highlights areas where user input might be stored on the server and reflected back as they are potential stored XSS candidates. It also lists all the parameter names and parameter values from the log for easy analysis by the tester.</description>
+    </module>
+  </category>
+  <category>
+    <name>Vulnerability Scanners</name>
+    <module>
+	  <name>IronSAP</name>
+	  <version>0.2</version>
+	  <display_name>IronSAP - SAP Security Scanner</display_name>
+	  <author>Prasanna K @prasannain</author>
+  	  <project_home>https://github.com/prasanna2204/IronSAP</project_home>
+	  <works_on_session>no</works_on_session>
+  	  <works_on_url>yes</works_on_url>
+	  <works_on_finding>yes</works_on_finding>
+  	  <description>https://github.com/prasanna2204/IronSAP</description>
+    </module>
+	<module>
+	  <name>SSLSecurityChecker</name>
+      <version>0.1</version>
+      <display_name>SSL Security Checker</display_name>
+  	  <author>Manish Saindane @msaindane</author>
+  	  <project_home>https://github.com/GDSSecurity/SSLSecurityChecker</project_home>
+  	  <works_on_session>no</works_on_session>
+	  <works_on_url>no</works_on_url>
+	  <works_on_finding>no</works_on_finding>
+	  <description>This is ported from the code found at http://www.bolet.org/TestSSLServer/ which was written by Thomas Pornin [pornin@bolet.org]. All credits for the orignal code goes to him.</description>
+	</module>
+	<module>
+	  <name>WiHawk</name>
+	  <version>0.1</version>
+	  <display_name>WiHawk - WiFi Router Vulnerability Scanner</display_name>
+	  <author>Anamika Singh @anami2111</author>
+	  <project_home>https://github.com/Anamika21/WiHawk</project_home>
+	  <works_on_session>no</works_on_session>
+	  <works_on_url>no</works_on_url>
+	  <works_on_finding>no</works_on_finding>
+	  <description>A tool for auditing a range of IP addresses to sniffout all wireless routers which are configured with default admin passwords and find out the routers which are vulnerable to Authentication bypass vulnerabilities. The tool provides capability to scan the network for vulnerable routers by taking input in one of the following formats: 
+		1. Single IP
+		2. Range of IPs
+		3. SHODAN Query (Requires a valid SHODAN API key)</description>
+	</module>
+  </category>
+  <category>
+    <name>Utilities</name>
+    <module>
+      <name>BodySaver</name>
+      <version>0.1</version>
+      <display_name>BodySaver - Save the body of the selected response to a file</display_name>
+      <author>Lavakumar Kuppan @lavakumark</author>
+      <project_home>https://github.com/lavakumar/bodysaver</project_home>
+      <works_on_session>yes</works_on_session>
+      <works_on_url>no</works_on_url>
+      <works_on_finding>no</works_on_finding>
+      <description>Saves the body of the response on which this module was run to a file of the user's choosing. </description>
+    </module>
+  </category>
+  <category>
+    <name>Exploitation</name>
+    <module>
+      <name>CSRFPOCGenerator</name>
+      <version>0.2</version>
+      <display_name>CSRF PoC Generator - Creates HTML file to recreate selected request from the browser</display_name>
+      <author>Jayesh Singh Chauhan @jayeshsch</author>
+      <project_home>https://github.com/jayeshchauhan</project_home>
+      <works_on_session>yes</works_on_session>
+      <works_on_url>no</works_on_url>
+      <works_on_finding>no</works_on_finding>
+      <description>Create a PoC for CSRF attacks in a split second. Right click any log and run this module to create a HTML file. When this file is opened from the browser, the browser will send a request similar to the one on which this module was run. It supports requests that have normal body format and also JSON and XML request body formats.</description>
+    </module>
+    <module>
+      <name>Skanda</name>
+      <version>0.1</version>
+      <display_name>OWASP Skanda - SSRF Exploitation Framework</display_name>
+      <author>Jayesh Singh Chauhan @jayeshsch</author>
+      <project_home>https://www.owasp.org/index.php/OWASP_Skanda_SSRF_Exploitation_Framework</project_home>
+      <works_on_session>yes</works_on_session>
+      <works_on_url>no</works_on_url>
+      <works_on_finding>no</works_on_finding>
+      <description>Performs port scan on a server vulnerable to Server-side Request Forgery vulnerability(SSRF). Right click on any log and run this module. Select the vulnerable injection points(GET/POST parameters) and session plugins if any are required. Port Status will be printed in the CLI.</description>
+    </module>
+	<module>
+	  <name>XmlChor</name>
+	  <version>0.1</version>
+	  <display_name>XmlChor - Automatic XPATH Exploitation Tool</display_name>
+	  <author>Harshal Jamdade @harshal2142</author>
+	  <project_home>https://github.com/Harshal35/XMLCHOR/tree/master</project_home>
+	  <works_on_session>yes</works_on_session>
+	  <works_on_url>no</works_on_url>
+	  <works_on_finding>no</works_on_finding>
+	  <description>XmlChor is an automated tool to help users in exploiting XPATH injection vulnerability in any web application. On successful exploitation XmlChor can extract sensitive data stored in the back-end XML database.</description>
+	</module>
+  </category>
+</modules>

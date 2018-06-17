@@ -1,0 +1,5 @@
+
+Making SHODAN API call to get target details....
+Extracting target details from the response
+SHODAN returned 2 taregts matching your query.
+Exception: 'WiHawk' object has no attribute 'scan_mult'
